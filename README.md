@@ -1,5 +1,8 @@
 # Overview 
 A command-line application built using Spring Shell. It demonstrates how to work with Spring Shell by implementing some basic functionalities. It includes examples of file operations, custom greetings, and other simple commands to create a custom shell environment.
+For more information, you can refer to the [Spring Shell documentation](https://docs.spring.io/spring-shell/reference/index.html).
+
+
 # Installation
 ## Prerequisites
 Java 11 or higher
