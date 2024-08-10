@@ -25,3 +25,21 @@
 1723302100810:help
 1723302109893:touch file.txt
 1723302381840:exit
+1723303685089:test
+1723303686899:exit
+1723303758885:test
+1723303776358:exit
+1723306323826:help
+1723306330149:hello --name "YourName" --counter 3
+1723306593518:touh
+1723306595505:touch
+1723306657026:touch  --name myfile.txt --path /Users/ayoub/Desktop/
+1723307275174:help
+1723307555026:return "Error writing to file: " + e.getMessage();
+1723307564141:append --content "Hey again!" --file "/path/to/myfile.txt"
+1723307625218:echo --content "hello from shell" --filepath "/Users/ayoub/Desktop/myfile.txt"
+1723307650955:echo --content "hello from shell" --filepath "/Users/ayoub/Desktop/myfile2.txt"
+1723307982192:help
+1723308021545:rm /Users/ayoub/Desktop/myfile3.txt
+1723308031572:rm /Users/ayoub/Desktop/myfile2.txt
+1723308041100:exit
