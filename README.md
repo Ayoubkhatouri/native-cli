@@ -5,9 +5,9 @@ For more information, you can refer to the [Spring Shell documentation](https://
 
 # Installation
 ## Prerequisites
-Java 11 or higher
-Maven 3.6.3 or higher
-Optional: GraalVM for native image generation
+- Java 11 or higher
+- Maven 3.6.3 or higher
+- Optional: GraalVM for native image generation
 
 ## Steps
 
